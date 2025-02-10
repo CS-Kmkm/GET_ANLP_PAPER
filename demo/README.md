@@ -1,5 +1,5 @@
-# demo
+# tmp
 
 このフォルダは各ファイルで言語処理学会の各年度のproceedingsから論文を取得するための試作用です。
 
-基本的にはget_nlp_papers.pyにファイルを使えば良いです。
+基本的にはget_nlp_papers.pyを使ってもらえればよいです．
